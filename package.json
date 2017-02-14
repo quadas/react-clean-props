@@ -1,6 +1,6 @@
 {
   "name": "@zippytech/react-clean-props",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Clean your React props",
   "main": "lib/index.js",
   "repository": {
